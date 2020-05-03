@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\dell\Desktop\practice\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1311535199.index

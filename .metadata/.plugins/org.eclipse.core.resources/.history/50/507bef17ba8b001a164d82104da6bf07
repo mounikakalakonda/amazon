@@ -1,0 +1,5 @@
+package com.cmr.amazon.dao;
+
+public class CategoryDAO {
+
+}

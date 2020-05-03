@@ -1,0 +1,5 @@
+package com.cmr.amazon.common;
+
+public class DBConFactory {
+
+}

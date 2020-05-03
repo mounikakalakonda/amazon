@@ -1,0 +1,5 @@
+package com.cmr.amazon.entity;
+
+public class Category {
+
+}

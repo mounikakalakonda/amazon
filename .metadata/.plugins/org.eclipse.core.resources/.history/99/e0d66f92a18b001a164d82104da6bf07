@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>amazon | index</title>
+</head>
+<body>
+	<h1>Welcome</h1>
+	<ol>
+	<li>Categories</li>
+	<li>clothes</li>
+	<li>mobiles</li>
+	<li>laptops</li>
+	<li>chargers</li>
+	<li>toys</li>
+	</ol>
+</body>
+</html>
